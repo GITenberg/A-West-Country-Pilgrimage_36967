@@ -1,0 +1,38 @@
+_repo: A-West-Country-Pilgrimage_36967
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Benthall, Annie T.
+    aliases:
+    - Benthall, Mrs. Charles
+    - Benthall, A. T.
+    gutenberg_agent_id: '38565'
+    url: http://www.gutenberg.org/2009/agents/38565
+covers:
+- cover_type: archival
+  image_path: 36967-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillpotts, Eden
+    birthdate: 1862
+    deathdate: 1960
+    gutenberg_agent_id: '665'
+    url: http://www.gutenberg.org/2009/agents/665
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36967'
+  lccn: '21005415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devon (England) -- Description and travel'
+- !lcsh 'Cornwall (England : County) -- Description and travel'
+- !lcc 'DA'
+title: A West Country Pilgrimage
+url: http://www.gutenberg.org/ebooks/36967
