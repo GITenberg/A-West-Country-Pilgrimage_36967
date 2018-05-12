@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/665
     wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36967#A-West-Country-Pilgrimage
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-08-03'
 gutenberg_type: Text
